@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Welcome To BaoYing
+author: XiangXiang
+email: shanxiangshmtu@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Baoying County, affiliated to Yangzhou City, Jiangsu Province, is located in the central part of Jiangsu Province, the north wing of the Yangtze River Delta, and the northwest of the Lixiahe Plain. It belongs to the outer ring of the Ningzhen Yangtongchengization, and is connected to Jianhu, Yancheng, Xinghua and Nanlian in the east. Gaoyou, West and Jinhu County, Hongze District across the Baoying Lake, Baima Lake, north of Zhou Enlai's hometown of Huai'an. The world-wide cultural heritage of the Beijing-Hangzhou Canal passes through the city, with pleasant scenery and facilities. The long history and modern civilization complement each other.
+Baoying Qin Shijian County, named Dongyang County, Ping'an County, and Anyi County, has a history of more than 2,200 years. In 762 AD, the territory was awarded the "eight treasures" to the emperor, and Tang Suzong regarded it as the treasure of the country. The three years of the reform were the first year of Baoying, and the name of Anyi County was named "Baoying".
+Baoying is the source of the national east-south project of South-to-North Water Transfer Project, the country's first organic food base demonstration county, the first batch of plain greening advanced counties, the first batch of ecological demonstration zones, the hometown of China's lotus, and the hometown of Chinese sage. It has been successfully established as a national ecological city (county), a national garden county, a national health county, a civilized city in Jiangsu Province, and a provincial social security county. China's Grand Canal Baoying Section was selected as a World Heritage Site.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: none
+github_username:  ai-aling-zhen-shi-tai-hai-le
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+theme: minima
